@@ -1,0 +1,8 @@
+streamlit
+ultralytics
+stable-baselines3
+opencv-python-headless
+gymnasium
+numpy
+scipy
+pillow
