@@ -2,7 +2,7 @@
 
 ClearSight-RL is a Reinforcement Learning pipeline that dynamically enhances degraded images (e.g., heavy fog) to maximize YOLOv8 object detection accuracy. It trains a PPO agent to intelligently sequence OpenCV filters and uses inference-time guardrails to guarantee the enhancement never degrades baseline performance.
 
-\<\!-- Replace the link below with the path to your best GitHub highlight image \--\>
+![hero_highlight_92](https://github.com/user-attachments/assets/4068dff6-1a5f-44f7-a9e2-260df448c3c5)
 
 *Comparison of standard YOLOv8 detection on a foggy image (left) vs. ClearSight-RL enhanced detection (right).*
 
